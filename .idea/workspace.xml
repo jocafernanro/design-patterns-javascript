@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92761dec-c49c-4e0f-b714-cf4ed6da7228" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iMgYjliubzFsLgmPP9WTh079Q8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jocafernanro\workspace\design-patterns-javascript\01.SOLID" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92761dec-c49c-4e0f-b714-cf4ed6da7228" name="Default Changelist" comment="" />
+      <created>1601722925137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601722925137</updated>
+      <workItem from="1601722926222" duration="9655000" />
+      <workItem from="1601805370687" duration="6243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="422" y="487" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601806699492">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="422" y="487" key="#com.intellij.fileTypes.FileTypeChooser/-1920.282.1536.827/3840.283.1920.1050/0.0.2560.1409@0.0.2560.1409" timestamp="1601806699492" />
+    <state x="636" y="221" key="SettingsEditor" timestamp="1601728718308">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="636" y="221" key="SettingsEditor/-1920.282.1536.827/3840.283.1920.1050/0.0.2560.1409@0.0.2560.1409" timestamp="1601728718308" />
+    <state x="93" y="93" width="2375" height="1224" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601724130933">
+      <screen x="0" y="0" width="2560" height="1409" />
+    </state>
+    <state x="93" y="93" width="2375" height="1224" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.282.1536.827/3840.283.1920.1050/0.0.2560.1409@0.0.2560.1409" timestamp="1601724130933" />
+  </component>
+</project>
